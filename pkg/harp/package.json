@@ -1,0 +1,30 @@
+{
+  "name": "@harpist/harp",
+  "version": "1.0.0",
+  "description": "Javascript Library for interacting with Harp API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-harpist/harpist.git"
+  },
+  "keywords": [
+    "harp",
+    "gaming",
+    "management"
+  ],
+  "author": "culturescrum <https://github.com/culturescrum>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/go-harpist/harpist/issues"
+  },
+  "homepage": "https://github.com/go-harpist/harpist#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.2",
+    "nyc": "^13.1.0",
+    "sinon": "^7.1.1",
+    "typescript": "^3.1.6"
+  }
+}
